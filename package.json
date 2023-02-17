@@ -1,14 +1,14 @@
 {
-  "name": "v12-bot",
+  "name": "zeaflexv12",
   "version": "1.0.0",
-  "description": "v12 empty bot by rootcf",
+  "description": "v12",
   "main": "bot.js",
   "scripts": {
     "test": "node bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rootcf/discord.js-v12-bot"
+    "url": "https://zeaflex"
   },
   "keywords": [
     "v12"
